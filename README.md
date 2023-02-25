@@ -1,4 +1,4 @@
-# Hi i'm Nishant
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=200&center=true&vCenter=true&width=435&lines=Hello+I'm+Nishant+%F0%9F%91%8B;And+I'm+a+College+student)](https://git.io/typing-svg)
 
 - #### 🙋‍♂ I'm a student from India.
